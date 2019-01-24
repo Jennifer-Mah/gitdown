@@ -1,30 +1,14 @@
-# gitdown
+# Gitdown
 
-## heading 2 (h2)
-
-###### heading 6 
+## Welcome to my first read me
 
  sometimes you need to be **BOLD**
 
  *italics* is also fun
-
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-
 
 As Nate Bennett said:
 
 > Hello
 > World
 
-:grimacing:	
+Check out my other work here http://creative.colorado.edu/~jema5807/FWD/
